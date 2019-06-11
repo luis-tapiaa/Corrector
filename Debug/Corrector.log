@@ -1,0 +1,6 @@
+﻿  Corrector.cpp
+  Diccionario.cpp
+c:\users\p7_jl\source\repos\corrector\corrector\diccionario.cpp(8): warning C4309: 'inicializando': truncamiento de valor constante
+c:\users\p7_jl\source\repos\corrector\corrector\diccionario.cpp(146): warning C4101: 'i': variable local sin referencia
+  Generando código...
+  Corrector.vcxproj -> C:\Users\p7_jl\source\repos\Corrector\Debug\Corrector.exe
